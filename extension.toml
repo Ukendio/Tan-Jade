@@ -1,0 +1,21 @@
+id = "tan-jade"
+name = "Tan Jade"
+version = "0.1.0"
+schema_version = 1
+description = "For people who want to piss people off"
+authors = ["ukendio@gmail.com"]
+themes = ["theme.json"]
+icon_themes = []
+languages = []
+
+[lib]
+
+[grammars]
+
+[language_servers]
+
+[context_servers]
+
+[slash_commands]
+
+[indexed_docs_providers]
