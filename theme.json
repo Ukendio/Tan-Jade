@@ -27,7 +27,7 @@
 					"background": "#00000000",
 					"hover": "#0b333520",
 					"active": "#12636720",
-					"selected": "#0000ff20",
+					"selected": "#ec789b",
 					"disabled": "#00000000"
 				},
 				"drop_target.background": "#0000ff40",
@@ -143,9 +143,9 @@
 				"warning.border": "#ffaa00",
 				"players": [
 					{
-						"cursor": "#ffffff",
-						"background": "#ffffff20",
-						"selection": "#ffffff30"
+						"cursor": "#88df8f",
+						"background": "#000fff",
+						"selection": "#000fff"
 					},
 					{
 						"cursor": "#66D9EF",
