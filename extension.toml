@@ -7,6 +7,7 @@ authors = ["ukendio@gmail.com"]
 themes = ["theme.json"]
 icon_themes = []
 languages = []
+repository = "http://github.com/Ukendio/Tan-Jade"
 
 [lib]
 
