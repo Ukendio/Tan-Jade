@@ -27,7 +27,7 @@
 					"background": "#00000000",
 					"hover": "#0b333520",
 					"active": "#12636720",
-					"selected": "#ec789b",
+					"selected": "#0000ff20",
 					"disabled": "#00000000"
 				},
 				"drop_target.background": "#0000ff40",
@@ -57,7 +57,6 @@
 				"scrollbar.track.background": "#062626",
 				"scrollbar.track.border": "#062626",
 				"editor.background": "#062626",
-
 				"editor.gutter.background": "#062626",
 				"editor.subheader.background": "#062626",
 				"editor.foreground": "#d1b897",
@@ -143,9 +142,9 @@
 				"warning.border": "#ffaa00",
 				"players": [
 					{
-						"cursor": "#88df8f",
-						"background": "#000fff",
-						"selection": "#000fff"
+						"cursor": "#ffffff",
+						"background": "#ffffff20",
+						"selection": "#ffffff30"
 					},
 					{
 						"cursor": "#66D9EF",
